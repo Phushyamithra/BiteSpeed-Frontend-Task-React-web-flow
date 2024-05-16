@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BiteSpeed-Frontend-Task-React-web-flow/static/css/main.aa3e789b.css",
+    "main.js": "/BiteSpeed-Frontend-Task-React-web-flow/static/js/main.fef71cd9.js",
+    "index.html": "/BiteSpeed-Frontend-Task-React-web-flow/index.html",
+    "main.aa3e789b.css.map": "/BiteSpeed-Frontend-Task-React-web-flow/static/css/main.aa3e789b.css.map",
+    "main.fef71cd9.js.map": "/BiteSpeed-Frontend-Task-React-web-flow/static/js/main.fef71cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3e789b.css",
+    "static/js/main.fef71cd9.js"
+  ]
+}
